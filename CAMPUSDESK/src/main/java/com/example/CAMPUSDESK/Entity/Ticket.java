@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 package com.example.CAMPUSDESK.Entity;
 
-public class Ticket {
-}
 =======
 package com.example.CAMPUSDESK.Entity;
 
